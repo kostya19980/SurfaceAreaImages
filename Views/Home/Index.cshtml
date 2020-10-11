@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<link type="text/css" rel="stylesheet" href="~/Content/ImageStyles.css" />
+<div class="ToolBar">
+    <div class="ToolBarButton" style="background-image:url(/Images/excel.png);height:60px">
+        <label class="LabelButton" for="ImportExcel">Import...</label>
+        <input id="ImportExcel" type="file" name="excelfile" style="visibility: hidden;" />
+    </div>
+    <button id="Download" onclick="Download(this)" class="ToolBarButton" style="background-image:url(/Images/excel.png);padding-top: 35px;height:60px">Export...</button>
+    <div class="Options">
+        <label>Длина:</label>
+        <input type="text" id="H" onkeypress="changeDot(this)" />
+    </div>
+    <div class="Options">
+        <label>Ширина:</label>
+        <input type="text" id="W" onkeypress="changeDot(this)" />
+    </div>
+    <div class="Options">
+        <label>Коэффициент высоты:</label>
+        <input class="rs" type="text" id="Z" onkeypress="changeDot(this)" />
+    </div>
+    <button id="S" class="ToolBarButton" style="height:60px;margin-left:10px">Найти площадь</button>
+</div>
+<div id="ImageBlock">
+    <label id="result">Площадь: </label>
+    <img id="Image" style='height: 100%; width: 100%;object-fit: contain' />
+</div>
+@section scripts{
+    <script type="text/javascript" src="~/Scripts/imageUpload.js">
+    </script>
+}
+<div id="List" class="imageList">
+    <div class="ToolBarButton" style="background-image: url(/Images/iconfinder_image_add.png); width: 120px">
+        <label class="LabelButton" for="uploadImage" style="height:100%"></label>
+        <input type="file" id="uploadImage" style="visibility:hidden;" />
+    </div>
+</div>

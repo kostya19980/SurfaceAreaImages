@@ -1,0 +1,699 @@
+D:\S\S\bin\S.dll.config
+D:\S\S\bin\S.dll
+D:\S\S\bin\S.pdb
+D:\S\S\bin\roslyn\csc.exe
+D:\S\S\bin\roslyn\csc.exe.config
+D:\S\S\bin\roslyn\csc.rsp
+D:\S\S\bin\roslyn\csi.exe
+D:\S\S\bin\roslyn\csi.exe.config
+D:\S\S\bin\roslyn\csi.rsp
+D:\S\S\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\S\S\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\S\S\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\S\S\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\S\S\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\S\S\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\S\S\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\S\S\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\S\S\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\S\S\bin\roslyn\Microsoft.Managed.Core.targets
+D:\S\S\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\S\S\bin\roslyn\System.AppContext.dll
+D:\S\S\bin\roslyn\System.Collections.Immutable.dll
+D:\S\S\bin\roslyn\System.Console.dll
+D:\S\S\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\S\S\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\S\S\bin\roslyn\System.IO.Compression.dll
+D:\S\S\bin\roslyn\System.IO.FileSystem.dll
+D:\S\S\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\S\S\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\S\S\bin\roslyn\System.IO.Pipes.dll
+D:\S\S\bin\roslyn\System.Reflection.Metadata.dll
+D:\S\S\bin\roslyn\System.Security.AccessControl.dll
+D:\S\S\bin\roslyn\System.Security.Claims.dll
+D:\S\S\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\S\S\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\S\S\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\S\S\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\S\S\bin\roslyn\System.Security.Principal.Windows.dll
+D:\S\S\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\S\S\bin\roslyn\System.ValueTuple.dll
+D:\S\S\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\S\S\bin\roslyn\System.Xml.XmlDocument.dll
+D:\S\S\bin\roslyn\System.Xml.XPath.dll
+D:\S\S\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\S\S\bin\roslyn\vbc.exe
+D:\S\S\bin\roslyn\vbc.exe.config
+D:\S\S\bin\roslyn\vbc.rsp
+D:\S\S\bin\roslyn\VBCSCompiler.exe
+D:\S\S\bin\roslyn\VBCSCompiler.exe.config
+D:\S\S\bin\Antlr3.Runtime.dll
+D:\S\S\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\S\S\bin\Microsoft.Web.Infrastructure.dll
+D:\S\S\bin\Newtonsoft.Json.dll
+D:\S\S\bin\System.Web.Helpers.dll
+D:\S\S\bin\System.Web.Mvc.dll
+D:\S\S\bin\System.Web.Optimization.dll
+D:\S\S\bin\System.Web.Razor.dll
+D:\S\S\bin\System.Web.WebPages.Deployment.dll
+D:\S\S\bin\System.Web.WebPages.dll
+D:\S\S\bin\System.Web.WebPages.Razor.dll
+D:\S\S\bin\WebGrease.dll
+D:\S\S\bin\System.Web.Helpers.xml
+D:\S\S\bin\System.Web.Mvc.xml
+D:\S\S\bin\System.Web.Optimization.xml
+D:\S\S\bin\System.Web.Razor.xml
+D:\S\S\bin\System.Web.WebPages.xml
+D:\S\S\bin\System.Web.WebPages.Deployment.xml
+D:\S\S\bin\System.Web.WebPages.Razor.xml
+D:\S\S\bin\Newtonsoft.Json.xml
+D:\S\S\bin\Antlr3.Runtime.pdb
+D:\S\S\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\S\S\bin\ru\System.Web.Helpers.resources.dll
+D:\S\S\bin\ru\System.Web.Mvc.resources.dll
+D:\S\S\bin\ru\System.Web.Optimization.resources.dll
+D:\S\S\bin\ru\System.Web.Razor.resources.dll
+D:\S\S\bin\ru\System.Web.WebPages.resources.dll
+D:\S\S\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\S\S\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\S\S\obj\Debug\S.csproj.CopyComplete
+D:\S\S\obj\Debug\S.dll
+D:\S\S\obj\Debug\S.pdb
+D:\S\S\bin\EntityFramework.dll
+D:\S\S\bin\EntityFramework.SqlServer.dll
+D:\S\S\bin\EntityFramework.xml
+D:\S\S\bin\EntityFramework.SqlServer.xml
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\S.dll.config
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\S.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\S.pdb
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\csc.exe
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\csc.exe.config
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\csc.rsp
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\csi.exe
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\csi.exe.config
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\csi.rsp
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\Microsoft.Managed.Core.targets
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.AppContext.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.Collections.Immutable.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.Console.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.IO.Compression.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.IO.FileSystem.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.IO.Pipes.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.Reflection.Metadata.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.Security.AccessControl.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.Security.Claims.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.Security.Principal.Windows.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.ValueTuple.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.Xml.XmlDocument.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.Xml.XPath.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\vbc.exe
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\vbc.exe.config
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\vbc.rsp
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\VBCSCompiler.exe
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\roslyn\VBCSCompiler.exe.config
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\Antlr3.Runtime.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\EntityFramework.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\EntityFramework.SqlServer.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\Microsoft.Web.Infrastructure.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\Newtonsoft.Json.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\System.Web.Helpers.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\System.Web.Mvc.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\System.Web.Optimization.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\System.Web.Razor.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\System.Web.WebPages.Deployment.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\System.Web.WebPages.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\System.Web.WebPages.Razor.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\WebGrease.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\EntityFramework.xml
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\EntityFramework.SqlServer.xml
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\System.Web.Helpers.xml
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\System.Web.Mvc.xml
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\System.Web.Optimization.xml
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\System.Web.Razor.xml
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\System.Web.WebPages.xml
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\System.Web.WebPages.Deployment.xml
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\System.Web.WebPages.Razor.xml
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\Newtonsoft.Json.xml
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\Antlr3.Runtime.pdb
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\ru\System.Web.Helpers.resources.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\ru\System.Web.Mvc.resources.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\ru\System.Web.Optimization.resources.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\ru\System.Web.Razor.resources.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\ru\System.Web.WebPages.resources.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\obj\Debug\S.csprojAssemblyReference.cache
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\obj\Debug\S.csproj.CoreCompileInputs.cache
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\obj\Debug\S.csproj.CopyComplete
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\obj\Debug\S.dll
+D:\D\Документы\универ\4 курс\Рудяк\S2\S\S\obj\Debug\S.pdb
+D:\utorrent\S\S\bin\S.dll.config
+D:\utorrent\S\S\bin\S.dll
+D:\utorrent\S\S\bin\S.pdb
+D:\utorrent\S\S\bin\roslyn\csc.exe
+D:\utorrent\S\S\bin\roslyn\csc.exe.config
+D:\utorrent\S\S\bin\roslyn\csc.rsp
+D:\utorrent\S\S\bin\roslyn\csi.exe
+D:\utorrent\S\S\bin\roslyn\csi.exe.config
+D:\utorrent\S\S\bin\roslyn\csi.rsp
+D:\utorrent\S\S\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\utorrent\S\S\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\utorrent\S\S\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\utorrent\S\S\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\utorrent\S\S\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\utorrent\S\S\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\utorrent\S\S\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\utorrent\S\S\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\utorrent\S\S\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\utorrent\S\S\bin\roslyn\Microsoft.Managed.Core.targets
+D:\utorrent\S\S\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\utorrent\S\S\bin\roslyn\System.AppContext.dll
+D:\utorrent\S\S\bin\roslyn\System.Collections.Immutable.dll
+D:\utorrent\S\S\bin\roslyn\System.Console.dll
+D:\utorrent\S\S\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\utorrent\S\S\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\utorrent\S\S\bin\roslyn\System.IO.Compression.dll
+D:\utorrent\S\S\bin\roslyn\System.IO.FileSystem.dll
+D:\utorrent\S\S\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\utorrent\S\S\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\utorrent\S\S\bin\roslyn\System.IO.Pipes.dll
+D:\utorrent\S\S\bin\roslyn\System.Reflection.Metadata.dll
+D:\utorrent\S\S\bin\roslyn\System.Security.AccessControl.dll
+D:\utorrent\S\S\bin\roslyn\System.Security.Claims.dll
+D:\utorrent\S\S\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\utorrent\S\S\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\utorrent\S\S\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\utorrent\S\S\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\utorrent\S\S\bin\roslyn\System.Security.Principal.Windows.dll
+D:\utorrent\S\S\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\utorrent\S\S\bin\roslyn\System.ValueTuple.dll
+D:\utorrent\S\S\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\utorrent\S\S\bin\roslyn\System.Xml.XmlDocument.dll
+D:\utorrent\S\S\bin\roslyn\System.Xml.XPath.dll
+D:\utorrent\S\S\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\utorrent\S\S\bin\roslyn\vbc.exe
+D:\utorrent\S\S\bin\roslyn\vbc.exe.config
+D:\utorrent\S\S\bin\roslyn\vbc.rsp
+D:\utorrent\S\S\bin\roslyn\VBCSCompiler.exe
+D:\utorrent\S\S\bin\roslyn\VBCSCompiler.exe.config
+D:\utorrent\S\S\bin\Antlr3.Runtime.dll
+D:\utorrent\S\S\bin\EntityFramework.dll
+D:\utorrent\S\S\bin\EntityFramework.SqlServer.dll
+D:\utorrent\S\S\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\utorrent\S\S\bin\Microsoft.Web.Infrastructure.dll
+D:\utorrent\S\S\bin\Newtonsoft.Json.dll
+D:\utorrent\S\S\bin\System.Web.Helpers.dll
+D:\utorrent\S\S\bin\System.Web.Mvc.dll
+D:\utorrent\S\S\bin\System.Web.Optimization.dll
+D:\utorrent\S\S\bin\System.Web.Razor.dll
+D:\utorrent\S\S\bin\System.Web.WebPages.Deployment.dll
+D:\utorrent\S\S\bin\System.Web.WebPages.dll
+D:\utorrent\S\S\bin\System.Web.WebPages.Razor.dll
+D:\utorrent\S\S\bin\WebGrease.dll
+D:\utorrent\S\S\bin\EntityFramework.xml
+D:\utorrent\S\S\bin\EntityFramework.SqlServer.xml
+D:\utorrent\S\S\bin\System.Web.Helpers.xml
+D:\utorrent\S\S\bin\System.Web.Mvc.xml
+D:\utorrent\S\S\bin\System.Web.Optimization.xml
+D:\utorrent\S\S\bin\System.Web.Razor.xml
+D:\utorrent\S\S\bin\System.Web.WebPages.xml
+D:\utorrent\S\S\bin\System.Web.WebPages.Deployment.xml
+D:\utorrent\S\S\bin\System.Web.WebPages.Razor.xml
+D:\utorrent\S\S\bin\Newtonsoft.Json.xml
+D:\utorrent\S\S\bin\Antlr3.Runtime.pdb
+D:\utorrent\S\S\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\utorrent\S\S\bin\ru\System.Web.Helpers.resources.dll
+D:\utorrent\S\S\bin\ru\System.Web.Mvc.resources.dll
+D:\utorrent\S\S\bin\ru\System.Web.Optimization.resources.dll
+D:\utorrent\S\S\bin\ru\System.Web.Razor.resources.dll
+D:\utorrent\S\S\bin\ru\System.Web.WebPages.resources.dll
+D:\utorrent\S\S\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\utorrent\S\S\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\utorrent\S\S\obj\Debug\S.csprojAssemblyReference.cache
+D:\utorrent\S\S\obj\Debug\S.csproj.CoreCompileInputs.cache
+D:\utorrent\S\S\obj\Debug\S.csproj.CopyComplete
+D:\utorrent\S\S\obj\Debug\S.dll
+D:\utorrent\S\S\obj\Debug\S.pdb
+D:\S\S\bin\Microsoft.Win32.Primitives.dll
+D:\S\S\bin\netstandard.dll
+D:\S\S\bin\System.AppContext.dll
+D:\S\S\bin\System.Collections.Concurrent.dll
+D:\S\S\bin\System.Collections.dll
+D:\S\S\bin\System.Collections.NonGeneric.dll
+D:\S\S\bin\System.Collections.Specialized.dll
+D:\S\S\bin\System.ComponentModel.dll
+D:\S\S\bin\System.ComponentModel.EventBasedAsync.dll
+D:\S\S\bin\System.ComponentModel.Primitives.dll
+D:\S\S\bin\System.ComponentModel.TypeConverter.dll
+D:\S\S\bin\System.Console.dll
+D:\S\S\bin\System.Data.Common.dll
+D:\S\S\bin\System.Diagnostics.Contracts.dll
+D:\S\S\bin\System.Diagnostics.Debug.dll
+D:\S\S\bin\System.Diagnostics.FileVersionInfo.dll
+D:\S\S\bin\System.Diagnostics.Process.dll
+D:\S\S\bin\System.Diagnostics.StackTrace.dll
+D:\S\S\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\S\S\bin\System.Diagnostics.Tools.dll
+D:\S\S\bin\System.Diagnostics.TraceSource.dll
+D:\S\S\bin\System.Diagnostics.Tracing.dll
+D:\S\S\bin\System.Drawing.Primitives.dll
+D:\S\S\bin\System.Dynamic.Runtime.dll
+D:\S\S\bin\System.Globalization.Calendars.dll
+D:\S\S\bin\System.Globalization.dll
+D:\S\S\bin\System.Globalization.Extensions.dll
+D:\S\S\bin\System.IO.Compression.dll
+D:\S\S\bin\System.IO.Compression.ZipFile.dll
+D:\S\S\bin\System.IO.dll
+D:\S\S\bin\System.IO.FileSystem.dll
+D:\S\S\bin\System.IO.FileSystem.DriveInfo.dll
+D:\S\S\bin\System.IO.FileSystem.Primitives.dll
+D:\S\S\bin\System.IO.FileSystem.Watcher.dll
+D:\S\S\bin\System.IO.IsolatedStorage.dll
+D:\S\S\bin\System.IO.MemoryMappedFiles.dll
+D:\S\S\bin\System.IO.Pipes.dll
+D:\S\S\bin\System.IO.UnmanagedMemoryStream.dll
+D:\S\S\bin\System.Linq.dll
+D:\S\S\bin\System.Linq.Expressions.dll
+D:\S\S\bin\System.Linq.Parallel.dll
+D:\S\S\bin\System.Linq.Queryable.dll
+D:\S\S\bin\System.Net.Http.dll
+D:\S\S\bin\System.Net.NameResolution.dll
+D:\S\S\bin\System.Net.NetworkInformation.dll
+D:\S\S\bin\System.Net.Ping.dll
+D:\S\S\bin\System.Net.Primitives.dll
+D:\S\S\bin\System.Net.Requests.dll
+D:\S\S\bin\System.Net.Security.dll
+D:\S\S\bin\System.Net.Sockets.dll
+D:\S\S\bin\System.Net.WebHeaderCollection.dll
+D:\S\S\bin\System.Net.WebSockets.Client.dll
+D:\S\S\bin\System.Net.WebSockets.dll
+D:\S\S\bin\System.ObjectModel.dll
+D:\S\S\bin\System.Reflection.dll
+D:\S\S\bin\System.Reflection.Extensions.dll
+D:\S\S\bin\System.Reflection.Primitives.dll
+D:\S\S\bin\System.Resources.Reader.dll
+D:\S\S\bin\System.Resources.ResourceManager.dll
+D:\S\S\bin\System.Resources.Writer.dll
+D:\S\S\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\S\S\bin\System.Runtime.dll
+D:\S\S\bin\System.Runtime.Extensions.dll
+D:\S\S\bin\System.Runtime.Handles.dll
+D:\S\S\bin\System.Runtime.InteropServices.dll
+D:\S\S\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\S\S\bin\System.Runtime.Numerics.dll
+D:\S\S\bin\System.Runtime.Serialization.Formatters.dll
+D:\S\S\bin\System.Runtime.Serialization.Json.dll
+D:\S\S\bin\System.Runtime.Serialization.Primitives.dll
+D:\S\S\bin\System.Runtime.Serialization.Xml.dll
+D:\S\S\bin\System.Security.Claims.dll
+D:\S\S\bin\System.Security.Cryptography.Algorithms.dll
+D:\S\S\bin\System.Security.Cryptography.Csp.dll
+D:\S\S\bin\System.Security.Cryptography.Encoding.dll
+D:\S\S\bin\System.Security.Cryptography.Primitives.dll
+D:\S\S\bin\System.Security.Cryptography.X509Certificates.dll
+D:\S\S\bin\System.Security.Principal.dll
+D:\S\S\bin\System.Security.SecureString.dll
+D:\S\S\bin\System.Text.Encoding.dll
+D:\S\S\bin\System.Text.Encoding.Extensions.dll
+D:\S\S\bin\System.Text.RegularExpressions.dll
+D:\S\S\bin\System.Threading.dll
+D:\S\S\bin\System.Threading.Overlapped.dll
+D:\S\S\bin\System.Threading.Tasks.dll
+D:\S\S\bin\System.Threading.Tasks.Parallel.dll
+D:\S\S\bin\System.Threading.Thread.dll
+D:\S\S\bin\System.Threading.ThreadPool.dll
+D:\S\S\bin\System.Threading.Timer.dll
+D:\S\S\bin\System.ValueTuple.dll
+D:\S\S\bin\System.Xml.ReaderWriter.dll
+D:\S\S\bin\System.Xml.XDocument.dll
+D:\S\S\bin\System.Xml.XmlDocument.dll
+D:\S\S\bin\System.Xml.XmlSerializer.dll
+D:\S\S\bin\System.Xml.XPath.dll
+D:\S\S\bin\System.Xml.XPath.XDocument.dll
+D:\S\S\bin\ICSharpCode.SharpZipLib.dll
+D:\S\S\bin\NPOI.dll
+D:\S\S\bin\NPOI.OOXML.dll
+D:\S\S\bin\NPOI.OpenXml4Net.dll
+D:\S\S\bin\NPOI.OpenXmlFormats.dll
+D:\S\S\bin\System.Drawing.Common.dll
+D:\S\S\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\S\S\bin\System.Text.Encoding.CodePages.dll
+D:\S\S\bin\ICSharpCode.SharpZipLib.pdb
+D:\S\S\bin\ICSharpCode.SharpZipLib.xml
+D:\S\S\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\S\S\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\S\S\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\S\S\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\S\S\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\S\S\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\S\S\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\S\S\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\S\S\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\S\S\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\S\S\bin\Microsoft.Extensions.Primitives.dll
+D:\S\S\bin\System.Buffers.dll
+D:\S\S\bin\System.IO.Pipelines.dll
+D:\S\S\bin\System.Memory.dll
+D:\S\S\bin\System.Numerics.Vectors.dll
+D:\S\S\bin\System.Text.Encodings.Web.dll
+D:\S\S\bin\System.Threading.Tasks.Extensions.dll
+D:\S\S\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\S\S\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\S\S\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\S\S\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\S\S\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\S\S\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\S\S\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\S\S\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\S\S\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\S\S\bin\Microsoft.Extensions.Primitives.xml
+D:\S\S\bin\System.Buffers.xml
+D:\S\S\bin\System.IO.Pipelines.xml
+D:\S\S\bin\System.Memory.xml
+D:\S\S\bin\System.Numerics.Vectors.xml
+D:\S\S\bin\System.Text.Encodings.Web.xml
+D:\S\S\bin\System.Threading.Tasks.Extensions.xml
+D:\S\S\obj\Debug\S.csprojAssemblyReference.cache
+D:\S\S\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\S\S\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\S\S\bin\Microsoft.AspNetCore.Authorization.dll
+D:\S\S\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\S\S\bin\Microsoft.AspNetCore.Http.dll
+D:\S\S\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\S\S\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\S\S\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\S\S\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\S\S\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\S\S\bin\Microsoft.AspNetCore.Routing.dll
+D:\S\S\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\S\S\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\S\S\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\S\S\bin\Microsoft.Extensions.DependencyModel.dll
+D:\S\S\bin\Microsoft.Extensions.ObjectPool.dll
+D:\S\S\bin\Microsoft.Extensions.Options.dll
+D:\S\S\bin\Microsoft.Net.Http.Headers.dll
+D:\S\S\bin\System.ComponentModel.Annotations.dll
+D:\S\S\bin\System.Diagnostics.DiagnosticSource.dll
+D:\S\S\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\S\S\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\S\S\bin\Microsoft.AspNetCore.Authorization.xml
+D:\S\S\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\S\S\bin\Microsoft.AspNetCore.Http.xml
+D:\S\S\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\S\S\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\S\S\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\S\S\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\S\S\bin\Microsoft.AspNetCore.Routing.xml
+D:\S\S\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\S\S\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\S\S\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\S\S\bin\Microsoft.Extensions.ObjectPool.xml
+D:\S\S\bin\Microsoft.Extensions.Options.xml
+D:\S\S\bin\Microsoft.Net.Http.Headers.xml
+D:\S\S\bin\System.Diagnostics.DiagnosticSource.xml
+E:\S\S\bin\S.dll.config
+E:\S\S\bin\S.dll
+E:\S\S\bin\S.pdb
+E:\S\S\bin\roslyn\csc.exe
+E:\S\S\bin\roslyn\csc.exe.config
+E:\S\S\bin\roslyn\csc.rsp
+E:\S\S\bin\roslyn\csi.exe
+E:\S\S\bin\roslyn\csi.exe.config
+E:\S\S\bin\roslyn\csi.rsp
+E:\S\S\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\S\S\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\S\S\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\S\S\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\S\S\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\S\S\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\S\S\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\S\S\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\S\S\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\S\S\bin\roslyn\Microsoft.Managed.Core.targets
+E:\S\S\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\S\S\bin\roslyn\System.AppContext.dll
+E:\S\S\bin\roslyn\System.Collections.Immutable.dll
+E:\S\S\bin\roslyn\System.Console.dll
+E:\S\S\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\S\S\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\S\S\bin\roslyn\System.IO.Compression.dll
+E:\S\S\bin\roslyn\System.IO.FileSystem.dll
+E:\S\S\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\S\S\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\S\S\bin\roslyn\System.IO.Pipes.dll
+E:\S\S\bin\roslyn\System.Reflection.Metadata.dll
+E:\S\S\bin\roslyn\System.Security.AccessControl.dll
+E:\S\S\bin\roslyn\System.Security.Claims.dll
+E:\S\S\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\S\S\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\S\S\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\S\S\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\S\S\bin\roslyn\System.Security.Principal.Windows.dll
+E:\S\S\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\S\S\bin\roslyn\System.ValueTuple.dll
+E:\S\S\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\S\S\bin\roslyn\System.Xml.XmlDocument.dll
+E:\S\S\bin\roslyn\System.Xml.XPath.dll
+E:\S\S\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\S\S\bin\roslyn\vbc.exe
+E:\S\S\bin\roslyn\vbc.exe.config
+E:\S\S\bin\roslyn\vbc.rsp
+E:\S\S\bin\roslyn\VBCSCompiler.exe
+E:\S\S\bin\roslyn\VBCSCompiler.exe.config
+E:\S\S\bin\Microsoft.Win32.Primitives.dll
+E:\S\S\bin\netstandard.dll
+E:\S\S\bin\System.AppContext.dll
+E:\S\S\bin\System.Collections.Concurrent.dll
+E:\S\S\bin\System.Collections.dll
+E:\S\S\bin\System.Collections.NonGeneric.dll
+E:\S\S\bin\System.Collections.Specialized.dll
+E:\S\S\bin\System.ComponentModel.dll
+E:\S\S\bin\System.ComponentModel.EventBasedAsync.dll
+E:\S\S\bin\System.ComponentModel.Primitives.dll
+E:\S\S\bin\System.ComponentModel.TypeConverter.dll
+E:\S\S\bin\System.Console.dll
+E:\S\S\bin\System.Data.Common.dll
+E:\S\S\bin\System.Diagnostics.Contracts.dll
+E:\S\S\bin\System.Diagnostics.Debug.dll
+E:\S\S\bin\System.Diagnostics.FileVersionInfo.dll
+E:\S\S\bin\System.Diagnostics.Process.dll
+E:\S\S\bin\System.Diagnostics.StackTrace.dll
+E:\S\S\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\S\S\bin\System.Diagnostics.Tools.dll
+E:\S\S\bin\System.Diagnostics.TraceSource.dll
+E:\S\S\bin\System.Diagnostics.Tracing.dll
+E:\S\S\bin\System.Drawing.Primitives.dll
+E:\S\S\bin\System.Dynamic.Runtime.dll
+E:\S\S\bin\System.Globalization.Calendars.dll
+E:\S\S\bin\System.Globalization.dll
+E:\S\S\bin\System.Globalization.Extensions.dll
+E:\S\S\bin\System.IO.Compression.dll
+E:\S\S\bin\System.IO.Compression.ZipFile.dll
+E:\S\S\bin\System.IO.dll
+E:\S\S\bin\System.IO.FileSystem.dll
+E:\S\S\bin\System.IO.FileSystem.DriveInfo.dll
+E:\S\S\bin\System.IO.FileSystem.Primitives.dll
+E:\S\S\bin\System.IO.FileSystem.Watcher.dll
+E:\S\S\bin\System.IO.IsolatedStorage.dll
+E:\S\S\bin\System.IO.MemoryMappedFiles.dll
+E:\S\S\bin\System.IO.Pipes.dll
+E:\S\S\bin\System.IO.UnmanagedMemoryStream.dll
+E:\S\S\bin\System.Linq.dll
+E:\S\S\bin\System.Linq.Expressions.dll
+E:\S\S\bin\System.Linq.Parallel.dll
+E:\S\S\bin\System.Linq.Queryable.dll
+E:\S\S\bin\System.Net.Http.dll
+E:\S\S\bin\System.Net.NameResolution.dll
+E:\S\S\bin\System.Net.NetworkInformation.dll
+E:\S\S\bin\System.Net.Ping.dll
+E:\S\S\bin\System.Net.Primitives.dll
+E:\S\S\bin\System.Net.Requests.dll
+E:\S\S\bin\System.Net.Security.dll
+E:\S\S\bin\System.Net.Sockets.dll
+E:\S\S\bin\System.Net.WebHeaderCollection.dll
+E:\S\S\bin\System.Net.WebSockets.Client.dll
+E:\S\S\bin\System.Net.WebSockets.dll
+E:\S\S\bin\System.ObjectModel.dll
+E:\S\S\bin\System.Reflection.dll
+E:\S\S\bin\System.Reflection.Extensions.dll
+E:\S\S\bin\System.Reflection.Primitives.dll
+E:\S\S\bin\System.Resources.Reader.dll
+E:\S\S\bin\System.Resources.ResourceManager.dll
+E:\S\S\bin\System.Resources.Writer.dll
+E:\S\S\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\S\S\bin\System.Runtime.dll
+E:\S\S\bin\System.Runtime.Extensions.dll
+E:\S\S\bin\System.Runtime.Handles.dll
+E:\S\S\bin\System.Runtime.InteropServices.dll
+E:\S\S\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\S\S\bin\System.Runtime.Numerics.dll
+E:\S\S\bin\System.Runtime.Serialization.Formatters.dll
+E:\S\S\bin\System.Runtime.Serialization.Json.dll
+E:\S\S\bin\System.Runtime.Serialization.Primitives.dll
+E:\S\S\bin\System.Runtime.Serialization.Xml.dll
+E:\S\S\bin\System.Security.Claims.dll
+E:\S\S\bin\System.Security.Cryptography.Algorithms.dll
+E:\S\S\bin\System.Security.Cryptography.Csp.dll
+E:\S\S\bin\System.Security.Cryptography.Encoding.dll
+E:\S\S\bin\System.Security.Cryptography.Primitives.dll
+E:\S\S\bin\System.Security.Cryptography.X509Certificates.dll
+E:\S\S\bin\System.Security.Principal.dll
+E:\S\S\bin\System.Security.SecureString.dll
+E:\S\S\bin\System.Text.Encoding.dll
+E:\S\S\bin\System.Text.Encoding.Extensions.dll
+E:\S\S\bin\System.Text.RegularExpressions.dll
+E:\S\S\bin\System.Threading.dll
+E:\S\S\bin\System.Threading.Overlapped.dll
+E:\S\S\bin\System.Threading.Tasks.dll
+E:\S\S\bin\System.Threading.Tasks.Parallel.dll
+E:\S\S\bin\System.Threading.Thread.dll
+E:\S\S\bin\System.Threading.ThreadPool.dll
+E:\S\S\bin\System.Threading.Timer.dll
+E:\S\S\bin\System.ValueTuple.dll
+E:\S\S\bin\System.Xml.ReaderWriter.dll
+E:\S\S\bin\System.Xml.XDocument.dll
+E:\S\S\bin\System.Xml.XmlDocument.dll
+E:\S\S\bin\System.Xml.XmlSerializer.dll
+E:\S\S\bin\System.Xml.XPath.dll
+E:\S\S\bin\System.Xml.XPath.XDocument.dll
+E:\S\S\bin\Antlr3.Runtime.dll
+E:\S\S\bin\EntityFramework.dll
+E:\S\S\bin\EntityFramework.SqlServer.dll
+E:\S\S\bin\ICSharpCode.SharpZipLib.dll
+E:\S\S\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\S\S\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\S\S\bin\Microsoft.AspNetCore.Authorization.dll
+E:\S\S\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\S\S\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\S\S\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\S\S\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\S\S\bin\Microsoft.AspNetCore.Http.dll
+E:\S\S\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\S\S\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\S\S\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\S\S\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\S\S\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\S\S\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\S\S\bin\Microsoft.AspNetCore.Routing.dll
+E:\S\S\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\S\S\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\S\S\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\S\S\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\S\S\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\S\S\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\S\S\bin\Microsoft.Extensions.DependencyModel.dll
+E:\S\S\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\S\S\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\S\S\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\S\S\bin\Microsoft.Extensions.ObjectPool.dll
+E:\S\S\bin\Microsoft.Extensions.Options.dll
+E:\S\S\bin\Microsoft.Extensions.Primitives.dll
+E:\S\S\bin\Microsoft.Net.Http.Headers.dll
+E:\S\S\bin\Microsoft.Web.Infrastructure.dll
+E:\S\S\bin\Newtonsoft.Json.dll
+E:\S\S\bin\NPOI.dll
+E:\S\S\bin\NPOI.OOXML.dll
+E:\S\S\bin\NPOI.OpenXml4Net.dll
+E:\S\S\bin\NPOI.OpenXmlFormats.dll
+E:\S\S\bin\System.Buffers.dll
+E:\S\S\bin\System.ComponentModel.Annotations.dll
+E:\S\S\bin\System.Diagnostics.DiagnosticSource.dll
+E:\S\S\bin\System.Drawing.Common.dll
+E:\S\S\bin\System.IO.Pipelines.dll
+E:\S\S\bin\System.Memory.dll
+E:\S\S\bin\System.Numerics.Vectors.dll
+E:\S\S\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\S\S\bin\System.Text.Encoding.CodePages.dll
+E:\S\S\bin\System.Text.Encodings.Web.dll
+E:\S\S\bin\System.Threading.Tasks.Extensions.dll
+E:\S\S\bin\System.Web.Helpers.dll
+E:\S\S\bin\System.Web.Mvc.dll
+E:\S\S\bin\System.Web.Optimization.dll
+E:\S\S\bin\System.Web.Razor.dll
+E:\S\S\bin\System.Web.WebPages.Deployment.dll
+E:\S\S\bin\System.Web.WebPages.dll
+E:\S\S\bin\System.Web.WebPages.Razor.dll
+E:\S\S\bin\WebGrease.dll
+E:\S\S\bin\EntityFramework.xml
+E:\S\S\bin\EntityFramework.SqlServer.xml
+E:\S\S\bin\ICSharpCode.SharpZipLib.pdb
+E:\S\S\bin\ICSharpCode.SharpZipLib.xml
+E:\S\S\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\S\S\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\S\S\bin\Microsoft.AspNetCore.Authorization.xml
+E:\S\S\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\S\S\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\S\S\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\S\S\bin\Microsoft.AspNetCore.Http.xml
+E:\S\S\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\S\S\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\S\S\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\S\S\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\S\S\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\S\S\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\S\S\bin\Microsoft.AspNetCore.Routing.xml
+E:\S\S\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\S\S\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\S\S\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\S\S\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\S\S\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\S\S\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\S\S\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\S\S\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\S\S\bin\Microsoft.Extensions.ObjectPool.xml
+E:\S\S\bin\Microsoft.Extensions.Options.xml
+E:\S\S\bin\Microsoft.Extensions.Primitives.xml
+E:\S\S\bin\Microsoft.Net.Http.Headers.xml
+E:\S\S\bin\System.Buffers.xml
+E:\S\S\bin\System.Diagnostics.DiagnosticSource.xml
+E:\S\S\bin\System.IO.Pipelines.xml
+E:\S\S\bin\System.Memory.xml
+E:\S\S\bin\System.Numerics.Vectors.xml
+E:\S\S\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\S\S\bin\System.Text.Encodings.Web.xml
+E:\S\S\bin\System.Threading.Tasks.Extensions.xml
+E:\S\S\bin\System.Web.Helpers.xml
+E:\S\S\bin\System.Web.Mvc.xml
+E:\S\S\bin\System.Web.Optimization.xml
+E:\S\S\bin\System.Web.Razor.xml
+E:\S\S\bin\System.Web.WebPages.xml
+E:\S\S\bin\System.Web.WebPages.Deployment.xml
+E:\S\S\bin\System.Web.WebPages.Razor.xml
+E:\S\S\bin\Newtonsoft.Json.xml
+E:\S\S\bin\Antlr3.Runtime.pdb
+E:\S\S\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\S\S\bin\ru\System.Web.Helpers.resources.dll
+E:\S\S\bin\ru\System.Web.Mvc.resources.dll
+E:\S\S\bin\ru\System.Web.Optimization.resources.dll
+E:\S\S\bin\ru\System.Web.Razor.resources.dll
+E:\S\S\bin\ru\System.Web.WebPages.resources.dll
+E:\S\S\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\S\S\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\S\S\obj\Debug\S.csprojAssemblyReference.cache
+E:\S\S\obj\Debug\S.csproj.CoreCompileInputs.cache
+E:\S\S\obj\Debug\S.csproj.CopyComplete
+E:\S\S\obj\Debug\S.dll
+E:\S\S\obj\Debug\S.pdb
